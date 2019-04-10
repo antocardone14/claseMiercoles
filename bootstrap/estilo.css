@@ -1,0 +1,16 @@
+body{
+  background-image: url(images/bg-body.png);
+}
+
+.container{
+  background-color: white;
+}
+
+.girl{
+  width: 100%;
+  border-radius: 50%;
+}
+.logo{
+  width: 80px;
+  height: 80px;
+}
